@@ -1,4 +1,4 @@
-# iosForensic
+# iOSForensic
 
 iosForensic is a python tool to help in forensics analysis on iOS.
 It get files, logs, extract sqlite3 databases and uncompress .plist files in xml.
