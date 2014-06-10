@@ -1,0 +1,9 @@
+Version 1.0 (May 2013 - Initial Release)
+- Get application's files
+- Convert .plist files in XML
+- Extract all databases
+- Convert binary cookies
+- Get application's logs
+- List all packages
+- Find packages
+- Extract multiple packages
