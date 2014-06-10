@@ -39,7 +39,7 @@ Simply clone this git repository and install dependencies.
 	./iOSForensic.py -i 192.168.1.10 -p 1337 -P pwd MyApp.app angry MyApp2
 
 ## Author
-Written by Florian Pradines (Phonesec), this tool is a referenced OWASP Android security project since 2013.
+Written by Florian Pradines (Phonesec), this tool is a referenced OWASP iOS security project since june 2014.
 
 You can contact me via my [website](http://florianpradines.com)
 
